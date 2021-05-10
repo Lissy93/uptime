@@ -4,18 +4,18 @@ repo: uptime
 
 # Sites to monitor
 sites:
-  - name: My Personal Website
+  - name: Personal Website
     url: https://aliciasykes.com
   - name: Sentiment Sweep
     url: https://sentiment-sweep.com
   - name: Security List
     url: https://security-list.js.org
-  - name: Demo- Dash
-    url: https://dash-demo.as93.net/
+  - name: Demo - Dashy
+    url: https://dashy-demo-2.as93.net
   - name: Demo- Happy App
-    url: http://happy-app-demo.as93.net/
+    url: http://happy-app-demo.as93.net
   - name: Demo - Lift Dash
-    url: https://tfl-lift-dash.as93.net/
+    url: https://tfl-lift-dash.as93.net
   - name: Revision Quizzes
     url: https://revisionquizzes.com
   - name: Reference - TCP ping
