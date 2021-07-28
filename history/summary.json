@@ -22,9 +22,9 @@
     "url": "https://sentiment-sweep.com",
     "icon": "https://favicons.githubusercontent.com/sentiment-sweep.com",
     "slug": "sentiment-sweep",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 932,
     "timeMonth": 956,
     "timeYear": 984,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-28": 0
+    }
   },
   {
     "name": "Security List",
