@@ -58,19 +58,19 @@
     "url": "https://dashy-demo-2.as93.net",
     "icon": "https://favicons.githubusercontent.com/dashy-demo-2.as93.net",
     "slug": "demo-dashy",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 266,
-    "timeDay": 5157,
-    "timeWeek": 1384,
-    "timeMonth": 465,
-    "timeYear": 266,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.10%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 264,
+    "timeDay": 3472,
+    "timeWeek": 1242,
+    "timeMonth": 454,
+    "timeYear": 264,
     "dailyMinutesDown": {
-      "2021-08-01": 0
+      "2021-08-01": 13
     }
   },
   {
