@@ -58,18 +58,20 @@
     "url": "https://dashy-demo-2.as93.net",
     "icon": "https://favicons.githubusercontent.com/dashy-demo-2.as93.net",
     "slug": "demo-dashy",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 152,
-    "timeDay": 254,
-    "timeWeek": 145,
-    "timeMonth": 156,
-    "timeYear": 152,
-    "dailyMinutesDown": {}
+    "time": 266,
+    "timeDay": 5157,
+    "timeWeek": 1384,
+    "timeMonth": 465,
+    "timeYear": 266,
+    "dailyMinutesDown": {
+      "2021-08-01": 0
+    }
   },
   {
     "name": "Demo- Happy App",
