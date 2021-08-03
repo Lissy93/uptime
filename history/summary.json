@@ -94,18 +94,20 @@
     "url": "https://tfl-lift-dash.as93.net",
     "icon": "https://favicons.githubusercontent.com/tfl-lift-dash.as93.net",
     "slug": "demo-lift-dash",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 165,
     "timeDay": 137,
     "timeWeek": 157,
     "timeMonth": 149,
     "timeYear": 165,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-03": 2
+    }
   },
   {
     "name": "Revision Quizzes",
