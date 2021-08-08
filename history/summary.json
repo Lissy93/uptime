@@ -22,19 +22,19 @@
     "url": "https://sentiment-sweep.com",
     "icon": "https://favicons.githubusercontent.com/sentiment-sweep.com",
     "slug": "sentiment-sweep",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.74%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 980,
-    "timeDay": 58,
-    "timeWeek": 844,
-    "timeMonth": 921,
+    "timeDay": 437,
+    "timeWeek": 841,
+    "timeMonth": 918,
     "timeYear": 980,
     "dailyMinutesDown": {
-      "2021-08-08": 0
+      "2021-08-08": 4
     }
   },
   {
