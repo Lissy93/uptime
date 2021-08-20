@@ -94,19 +94,19 @@
     "url": "https://tfl-lift-dash.as93.net",
     "icon": "https://favicons.githubusercontent.com/tfl-lift-dash.as93.net",
     "slug": "demo-lift-dash",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 166,
-    "timeDay": 150,
-    "timeWeek": 199,
-    "timeMonth": 157,
+    "timeDay": 197,
+    "timeWeek": 209,
+    "timeMonth": 161,
     "timeYear": 166,
     "dailyMinutesDown": {
-      "2021-08-20": 0
+      "2021-08-20": 8
     }
   },
   {
