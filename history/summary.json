@@ -24,18 +24,16 @@
     "slug": "sentiment-sweep",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 980,
     "timeDay": 777,
     "timeWeek": 1011,
     "timeMonth": 962,
     "timeYear": 980,
-    "dailyMinutesDown": {
-      "2021-08-20": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Security List",
@@ -96,18 +94,20 @@
     "url": "https://tfl-lift-dash.as93.net",
     "icon": "https://favicons.githubusercontent.com/tfl-lift-dash.as93.net",
     "slug": "demo-lift-dash",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 166,
-    "timeDay": 121,
-    "timeWeek": 202,
-    "timeMonth": 156,
+    "timeDay": 150,
+    "timeWeek": 199,
+    "timeMonth": 157,
     "timeYear": 166,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-20": 0
+    }
   },
   {
     "name": "Revision Quizzes",
