@@ -58,18 +58,20 @@
     "url": "https://dashy-demo-2.as93.net",
     "icon": "https://favicons.githubusercontent.com/dashy-demo-2.as93.net",
     "slug": "demo-dashy",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 253,
-    "timeDay": 139,
-    "timeWeek": 333,
-    "timeMonth": 418,
-    "timeYear": 363,
-    "dailyMinutesDown": {}
+    "time": 252,
+    "timeDay": 105,
+    "timeWeek": 300,
+    "timeMonth": 389,
+    "timeYear": 358,
+    "dailyMinutesDown": {
+      "2022-07-13": 0
+    }
   },
   {
     "name": "Demo- Happy App",
@@ -94,18 +96,20 @@
     "url": "https://tfl-lift-dash.as93.net",
     "icon": "https://favicons.githubusercontent.com/tfl-lift-dash.as93.net",
     "slug": "demo-lift-dash",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 174,
-    "timeDay": 92,
-    "timeWeek": 165,
-    "timeMonth": 276,
-    "timeYear": 193,
-    "dailyMinutesDown": {}
+    "time": 225,
+    "timeDay": 5121,
+    "timeWeek": 1413,
+    "timeMonth": 1099,
+    "timeYear": 344,
+    "dailyMinutesDown": {
+      "2022-07-13": 0
+    }
   },
   {
     "name": "Revision Quizzes",
