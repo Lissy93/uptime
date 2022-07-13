@@ -58,19 +58,19 @@
     "url": "https://dashy-demo-2.as93.net",
     "icon": "https://favicons.githubusercontent.com/dashy-demo-2.as93.net",
     "slug": "demo-dashy",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 252,
-    "timeDay": 105,
-    "timeWeek": 300,
-    "timeMonth": 389,
-    "timeYear": 358,
+    "time": 251,
+    "timeDay": 138,
+    "timeWeek": 289,
+    "timeMonth": 375,
+    "timeYear": 356,
     "dailyMinutesDown": {
-      "2022-07-13": 0
+      "2022-07-13": 7
     }
   },
   {
@@ -96,19 +96,19 @@
     "url": "https://tfl-lift-dash.as93.net",
     "icon": "https://favicons.githubusercontent.com/tfl-lift-dash.as93.net",
     "slug": "demo-lift-dash",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 225,
-    "timeDay": 5121,
+    "time": 231,
+    "timeDay": 3884,
     "timeWeek": 1413,
-    "timeMonth": 1099,
-    "timeYear": 344,
+    "timeMonth": 1123,
+    "timeYear": 360,
     "dailyMinutesDown": {
-      "2022-07-13": 0
+      "2022-07-13": 7
     }
   },
   {
