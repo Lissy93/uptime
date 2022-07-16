@@ -48,10 +48,13 @@ status-website:
   # cname: uptime.as93.net
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /uptime
-  logoUrl: https://i.ibb.co/n3cR0vC/favicon.png
-  name: Upptime
-  introTitle: "Status Page for monitoring my GitHub application demo sites"
-  introMessage: Status page showing real-time stats with GitHub actions using [upptime](https://github.com/upptime/upptime)
+  logoUrl: https://i.ibb.co/fkpSwVg/liss-bot-round.png
+  name: Uptime Monitor
+  introTitle: |
+    Uptime monitoring of [@Lissy93](https://github.com/lissy93)'s repository docs and demo sites
+  introMessage: |
+    The following page shows current and recent uptime and outage statistics for application demos and docs sites.
+    It's built using [upptime](https://github.com/upptime/upptime) and all checks are run via GitHub Actions.
   theme: ocean
   navbar:
     - title: Status
