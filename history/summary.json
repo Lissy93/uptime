@@ -4,19 +4,19 @@
     "url": "https://awesome-privacy.xyz",
     "icon": "https://favicons.githubusercontent.com/awesome-privacy.xyz",
     "slug": "awesome-privacy",
-    "status": "down",
-    "uptime": "31.04%",
-    "uptimeDay": "31.04%",
-    "uptimeWeek": "31.04%",
-    "uptimeMonth": "31.04%",
-    "uptimeYear": "31.04%",
+    "status": "up",
+    "uptime": "23.13%",
+    "uptimeDay": "23.13%",
+    "uptimeWeek": "23.13%",
+    "uptimeMonth": "23.13%",
+    "uptimeYear": "23.13%",
     "time": 166,
     "timeDay": 166,
     "timeWeek": 166,
     "timeMonth": 166,
     "timeYear": 166,
     "dailyMinutesDown": {
-      "2022-07-16": 59
+      "2022-07-16": 88
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://email-comparison.as93.net",
     "icon": "https://favicons.githubusercontent.com/email-comparison.as93.net",
     "slug": "email-comparison",
-    "status": "down",
-    "uptime": "99.75%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.75%",
-    "uptimeYear": "99.75%",
-    "time": 243,
-    "timeDay": 243,
-    "timeWeek": 243,
-    "timeMonth": 243,
-    "timeYear": 243,
+    "status": "up",
+    "uptime": "74.07%",
+    "uptimeDay": "74.07%",
+    "uptimeWeek": "74.07%",
+    "uptimeMonth": "74.07%",
+    "uptimeYear": "74.07%",
+    "time": 232,
+    "timeDay": 232,
+    "timeWeek": 232,
+    "timeMonth": 232,
+    "timeYear": 232,
     "dailyMinutesDown": {
-      "2022-07-16": 0
+      "2022-07-16": 30
     }
   },
   {
