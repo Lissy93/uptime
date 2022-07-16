@@ -1,10 +1,23 @@
 # Repo Info
 owner: lissy93
 repo: uptime
+user-agent: lissy93
 
 # Sites to monitor
 sites:
-  - name: Personal Website
+  - name: Awesome Privacy
+    url: https://awesome-privacy.xyz
+  - name: Go-APOD
+    url: https://apod.as93.net/
+  - name: Email Comparison
+    url: https://email-comparison.as93.net
+  - name: Dashy Docs
+    url: https://dashy.to
+  - name: Countries
+    url: https://countries.as93.net
+  - name: Cyber Presentation
+    url: https://cyber-presentation.as93.net
+  - name: AliciaSykes.com
     url: https://aliciasykes.com
   - name: Sentiment Sweep
     url: https://sentiment-sweep.com
@@ -18,6 +31,14 @@ sites:
     url: https://tfl-lift-dash.as93.net
   - name: Revision Quizzes
     url: https://revisionquizzes.com
+  - name: Email Extractor
+    url: https://email-extractor.as93.net
+  - name: AHK to Espanso
+    url: http://ahk-to-espanso.as93.net
+  - name: Bullet Convertor
+    url: http://bullet-convertor.as93.net
+  - name: Tic-Tac-Toe
+    url: http://tic-tac-toe.as93.net
   - name: Reference - TCP ping
     url: 1.1.1.1
 
@@ -26,15 +47,26 @@ status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: uptime.as93.net
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  baseUrl: /upptime
+  baseUrl: /uptime
   logoUrl: https://i.ibb.co/n3cR0vC/favicon.png
   name: Upptime
   introTitle: "Status Page for monitoring my GitHub application demo sites"
   introMessage: Status page showing real-time stats with GitHub actions using [upptime](https://github.com/upptime/upptime)
+  theme: ocean
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
+      
+# CI Running Options
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/30 * * * *"
+  
 # See https://upptime.js.org/docs/configuration
