@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/awesome-privacy.xyz",
     "slug": "awesome-privacy",
     "status": "down",
-    "uptime": "99.50%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.50%",
-    "uptimeMonth": "99.50%",
-    "uptimeYear": "99.50%",
+    "uptime": "31.04%",
+    "uptimeDay": "31.04%",
+    "uptimeWeek": "31.04%",
+    "uptimeMonth": "31.04%",
+    "uptimeYear": "31.04%",
     "time": 166,
     "timeDay": 166,
     "timeWeek": 166,
     "timeMonth": 166,
     "timeYear": 166,
     "dailyMinutesDown": {
-      "2022-07-16": 0
+      "2022-07-16": 59
     }
   },
   {
@@ -42,18 +42,20 @@
     "url": "https://email-comparison.as93.net",
     "icon": "https://favicons.githubusercontent.com/email-comparison.as93.net",
     "slug": "email-comparison",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.75%",
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.75%",
     "time": 243,
     "timeDay": 243,
     "timeWeek": 243,
     "timeMonth": 243,
     "timeYear": 243,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-16": 0
+    }
   },
   {
     "name": "Dashy Docs",
