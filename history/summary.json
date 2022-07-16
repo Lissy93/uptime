@@ -4,18 +4,20 @@
     "url": "https://awesome-privacy.xyz",
     "icon": "https://favicons.githubusercontent.com/awesome-privacy.xyz",
     "slug": "awesome-privacy",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.50%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "99.50%",
+    "uptimeYear": "99.50%",
     "time": 166,
     "timeDay": 166,
     "timeWeek": 166,
     "timeMonth": 166,
     "timeYear": 166,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-16": 0
+    }
   },
   {
     "name": "Go-APOD",
