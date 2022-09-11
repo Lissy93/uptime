@@ -1,6 +1,7 @@
 # [📈 Live Status](https://lissy93.github.io/uptime): <!--live status--> **🟧 Partial outage**
 
-This repository uses [Upptime](https://github.com/upptime/upptime) to implement GitHub actions that monitor the status a couple of my applications, mostly lesser used demo applications that do not have their own dedicated monitoring environment.
+Monitoring of live demos and meta sites, which don't have a dedicated status monitoring system.
+All checks are run using GitHub Actions, based of off [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/lissy93/uptime/workflows/Uptime%20CI/badge.svg)](https://github.com/lissy93/uptime/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/lissy93/uptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/lissy93/uptime/actions?query=workflow%3A%22Response+Time+CI%22)
