@@ -43,4 +43,3 @@ All checks are run using GitHub Actions, based of off [Upptime](https://github.c
 - Powered by: [Upptime](https://github.com/upptime/upptime)
 - Code: [MIT](./LICENSE) © [Alicia Sykes](https://aliciasykes.com)
 - Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
-
